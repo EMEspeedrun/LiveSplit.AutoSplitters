@@ -16593,3 +16593,14 @@
 	<Website>https://github.com/krille71/alkali-autosplitter</Website>
     </AutoSplitter>
   </AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>The Legend of Sword and Fairy 3 Prequel</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/EMEspeedrun/The-Legend-of-Sword-and-Fairy-3-Prequel/main/The%20Legend%20of%20Sword%20and%20Fairy%203%20Prequel</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for PAL3A by EME</Description>
+        <Website>https://www.speedrun.com/the_legend_of_sword_and_fairy_3_prequel?h=NG_Any&x=wk60wqpk</Website>
+    </AutoSplitter>
